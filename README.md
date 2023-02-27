@@ -5,3 +5,9 @@ Enhanced joint impact of the western hemispheric precursors  on the El Niño–S
 
 - X: one dimension
 - Y: two dimensions
+
+## Requirement
+
+   -  NCAR Command Language Version 6.6.2 (https://www.ncl.ucar.edu/) 
+   
+## Basic tutorial: https://www.ncl.ucar.edu/Applications/
